@@ -1,0 +1,34 @@
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+#active {
+    background-color: white;
+    color: steelblue;
+}
+
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+body {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+nav, footer {
+    text-align: center;
+}
+main p {
+    width: 80%;
+    margin: 50 px auto;
+    text-align: center;
+}
