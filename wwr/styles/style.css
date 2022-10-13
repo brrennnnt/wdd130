@@ -222,18 +222,18 @@ main section img {
 }
 .campground-txt {
     margin: 200px;
-    grid-template-columns: 2/3;
-    grid-template-rows: 1/2;
+    grid-column: 2/3;
+    grid-row: 1/2;
 }
 .wildlife-txt {
     margin: 200px;
-    grid-template-columns: 2/3;
-    grid-template-rows: 2/3;
+    grid-column: 2/3;
+    grid-row: 2/3;
 }
 .campfire-txt {
     margin: 200px;
-    grid-template-columns: 2/3;
-    grid-template-rows: 3/4;
+    grid-column: 2/3;
+    grid-row: 3/4;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
