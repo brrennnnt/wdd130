@@ -78,7 +78,7 @@ footer .social img {
     font-size: xxx-large;
     color: #5299d3;
 }
-.home_img {
+.home_img, .card-img {
     width: 600px;
     height: 600px;
     border: 10px solid #5299d3;
@@ -108,3 +108,180 @@ footer .social img {
     grid-row: 4/5;
     font-size: x-large;
 }
+.cwelcome {
+    font-size: xxx-large;
+    color: #5299d3;
+    text-align: center;
+}
+.bench {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.bpione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.bpsone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.bpitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.bpstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.bpithree {
+    grid-row: 1/2;
+    justify-self: right;
+}
+
+.squat {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.sione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.ssone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.sitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.sstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.sithree {
+    grid-row: 1/2;
+    justify-self: right;
+}
+
+.deadlift {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.dlione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.dlsone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.dlitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.dlstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.dlithree {
+    grid-row: 1/2;
+    justify-self: right;
+}
+
+.powerclean {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.pcione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.pcsone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.pcitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.pcstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.pcithree {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    justify-self: right;
+}
+.pcsthree {
+    grid-row: 2/3;
+    grid-column: 3/4;
+}
+
+.inclinebench {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.icione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.icsone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.icitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.icstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.icithree {
+    grid-row: 1/2;
+    justify-self: right;
+}
+
+.frontsquat {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.fsione {
+    grid-row: 1/2;
+    grid-template-columns: 1/2;
+}
+.fssone {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.fsitwo {
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+.fsstwo {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.fsithree {
+    grid-row: 1/2;
+    justify-self: right;
+}
+.corename {
+    font-size: xx-large;
+    color: #1b4079;
+    border: 30px dotted #f3eee2;
+    text-align: center;
+}
+
+
+
+
+
+
