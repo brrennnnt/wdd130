@@ -120,7 +120,7 @@ footer .social img {
 }
 .bpione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .bpsone {
     grid-column: 1/2;
@@ -146,7 +146,7 @@ footer .social img {
 }
 .sione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .ssone {
     grid-column: 1/2;
@@ -172,7 +172,7 @@ footer .social img {
 }
 .dlione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .dlsone {
     grid-column: 1/2;
@@ -198,7 +198,7 @@ footer .social img {
 }
 .pcione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .pcsone {
     grid-column: 1/2;
@@ -229,7 +229,7 @@ footer .social img {
 }
 .icione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .icsone {
     grid-column: 1/2;
@@ -255,7 +255,7 @@ footer .social img {
 }
 .fsione {
     grid-row: 1/2;
-    grid-template-columns: 1/2;
+    grid-column: 1/2;
 }
 .fssone {
     grid-column: 1/2;
